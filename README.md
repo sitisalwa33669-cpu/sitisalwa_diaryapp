@@ -1,6 +1,6 @@
-Nama:Rismawati Gistiani Aulia
-NIM:2430511013
+Nama:Siti Salwa
+NIM:2430511029
 Langkah Menjalankan Proyek : Buka app lalu barcode kodenya
 Fitur Yang Diselesaikan : Menambahkan catatan harian baru, melihat daftar catatan yang telah dibuat.
 Screenshoot Aplikasi:
-<img width="738" height="1600" alt="Screenshot Aplikasi" src="https://github.com/user-attachments/assets/753f5fb7-f315-474e-bd9a-77953a84db6b" />
+<img width="851" height="1600" alt="SS Diary-App" src="https://github.com/user-attachments/assets/5f9ec124-b1d1-4b16-861d-55e20ebdcd9c" />
